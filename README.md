@@ -13,19 +13,19 @@ Build a machine learning model using the dataset provided to predict if a custom
 Dataset Description
 The dataset consists of the following variables:
 
-ID: Customer ID
-Age: Customer's age in years
-Experience: Number of years of professional experience
-Income: Annual income in thousands of dollars
-Postal Code: Postal code of the customer's home address
-Family Size: Number of family members
-CCAvgSpending: Average credit card spending per month in thousands of dollars
-Education: Customer's education level (Undergrad, Graduate, Advanced Degree)
-Mortgage: Value of home mortgage in thousands of dollars (if any)
-Investment Account: Whether the customer has an investment account with the bank (1 = Yes, 0 = No)
-Deposit Account: Whether the customer has a deposit account with the bank (1 = Yes, 0 = No)
-InternetBanking: Whether the customer uses internet banking (Yes, No)
-Personal Loan: Whether the customer accepted the personal loan offered in the last campaign (Yes, No)
+1. ID: Customer ID
+2. Age: Customer's age in years
+3. Experience: Number of years of professional experience
+4. Income: Annual income in thousands of dollars
+5. Postal Code: Postal code of the customer's home address
+6. Family Size: Number of family members
+7. CCAvgSpending: Average credit card spending per month in thousands of dollars
+8. Education: Customer's education level (Undergrad, Graduate, Advanced Degree)
+9. Mortgage: Value of home mortgage in thousands of dollars (if any)
+10. Investment Account: Whether the customer has an investment account with the bank (1 = Yes, 0 = No)
+11. Deposit Account: Whether the customer has a deposit account with the bank (1 = Yes, 0 = No)
+12. InternetBanking: Whether the customer uses internet banking (Yes, No)
+13. Personal Loan: Whether the customer accepted the personal loan offered in the last campaign (Yes, No)
 
 Files Included
 1. Loan_Prediction.ipynb - Jupyter notebook containing data exploration, preprocessing, model training, evaluation, and prediction code.
